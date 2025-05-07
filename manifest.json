@@ -1,0 +1,6 @@
+{
+  "name": "email_report_dispatcher",
+  "auto_deploy": false,
+  "safety_checks": true,
+  "pause_enabled": true
+}
